@@ -8,3 +8,7 @@ The last chance for humanity
 ```bash
 pip install requests pandas
 ```
+
+```bash
+pip install wikipedia-api markdownify
+```
