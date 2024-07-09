@@ -1,0 +1,1731 @@
+[
+    {
+        "title": "Main_Page",
+        "views": 4817450,
+        "link": "https://en.wikipedia.org/wiki/Main_Page",
+        "translations": {
+            "ar": {
+                "title": "",
+                "link": "https://ar.wikipedia.org/wiki/"
+            },
+            "az": {
+                "title": "",
+                "link": "https://az.wikipedia.org/wiki/"
+            },
+            "bg": {
+                "title": "",
+                "link": "https://bg.wikipedia.org/wiki/"
+            },
+            "bn": {
+                "title": "",
+                "link": "https://bn.wikipedia.org/wiki/"
+            },
+            "bs": {
+                "title": "",
+                "link": "https://bs.wikipedia.org/wiki/"
+            },
+            "ca": {
+                "title": "",
+                "link": "https://ca.wikipedia.org/wiki/"
+            },
+            "ckb": {
+                "title": "",
+                "link": "https://ckb.wikipedia.org/wiki/"
+            },
+            "cs": {
+                "title": "",
+                "link": "https://cs.wikipedia.org/wiki/"
+            },
+            "da": {
+                "title": "",
+                "link": "https://da.wikipedia.org/wiki/"
+            },
+            "de": {
+                "title": "",
+                "link": "https://de.wikipedia.org/wiki/"
+            },
+            "el": {
+                "title": "",
+                "link": "https://el.wikipedia.org/wiki/"
+            },
+            "eo": {
+                "title": "",
+                "link": "https://eo.wikipedia.org/wiki/"
+            },
+            "es": {
+                "title": "",
+                "link": "https://es.wikipedia.org/wiki/"
+            },
+            "et": {
+                "title": "",
+                "link": "https://et.wikipedia.org/wiki/"
+            },
+            "eu": {
+                "title": "",
+                "link": "https://eu.wikipedia.org/wiki/"
+            },
+            "fa": {
+                "title": "",
+                "link": "https://fa.wikipedia.org/wiki/"
+            },
+            "fi": {
+                "title": "",
+                "link": "https://fi.wikipedia.org/wiki/"
+            },
+            "fr": {
+                "title": "",
+                "link": "https://fr.wikipedia.org/wiki/"
+            },
+            "gl": {
+                "title": "",
+                "link": "https://gl.wikipedia.org/wiki/"
+            },
+            "he": {
+                "title": "",
+                "link": "https://he.wikipedia.org/wiki/"
+            },
+            "hr": {
+                "title": "",
+                "link": "https://hr.wikipedia.org/wiki/"
+            },
+            "hu": {
+                "title": "",
+                "link": "https://hu.wikipedia.org/wiki/"
+            },
+            "id": {
+                "title": "",
+                "link": "https://id.wikipedia.org/wiki/"
+            },
+            "it": {
+                "title": "",
+                "link": "https://it.wikipedia.org/wiki/"
+            },
+            "ja": {
+                "title": "",
+                "link": "https://ja.wikipedia.org/wiki/"
+            },
+            "ka": {
+                "title": "",
+                "link": "https://ka.wikipedia.org/wiki/"
+            },
+            "ko": {
+                "title": "",
+                "link": "https://ko.wikipedia.org/wiki/"
+            },
+            "lt": {
+                "title": "",
+                "link": "https://lt.wikipedia.org/wiki/"
+            },
+            "lv": {
+                "title": "",
+                "link": "https://lv.wikipedia.org/wiki/"
+            },
+            "mk": {
+                "title": "",
+                "link": "https://mk.wikipedia.org/wiki/"
+            },
+            "ms": {
+                "title": "",
+                "link": "https://ms.wikipedia.org/wiki/"
+            },
+            "nl": {
+                "title": "",
+                "link": "https://nl.wikipedia.org/wiki/"
+            },
+            "nn": {
+                "title": "",
+                "link": "https://nn.wikipedia.org/wiki/"
+            },
+            "nb": {
+                "title": "",
+                "link": "https://nb.wikipedia.org/wiki/"
+            },
+            "pl": {
+                "title": "",
+                "link": "https://pl.wikipedia.org/wiki/"
+            },
+            "pt": {
+                "title": "",
+                "link": "https://pt.wikipedia.org/wiki/"
+            },
+            "ro": {
+                "title": "",
+                "link": "https://ro.wikipedia.org/wiki/"
+            },
+            "ru": {
+                "title": "",
+                "link": "https://ru.wikipedia.org/wiki/"
+            },
+            "sh": {
+                "title": "",
+                "link": "https://sh.wikipedia.org/wiki/"
+            },
+            "simple": {
+                "title": "",
+                "link": "https://simple.wikipedia.org/wiki/"
+            },
+            "sk": {
+                "title": "",
+                "link": "https://sk.wikipedia.org/wiki/"
+            },
+            "sl": {
+                "title": "",
+                "link": "https://sl.wikipedia.org/wiki/"
+            },
+            "sr": {
+                "title": "",
+                "link": "https://sr.wikipedia.org/wiki/"
+            },
+            "sv": {
+                "title": "",
+                "link": "https://sv.wikipedia.org/wiki/"
+            },
+            "th": {
+                "title": "",
+                "link": "https://th.wikipedia.org/wiki/"
+            },
+            "tr": {
+                "title": "",
+                "link": "https://tr.wikipedia.org/wiki/"
+            },
+            "uk": {
+                "title": "",
+                "link": "https://uk.wikipedia.org/wiki/"
+            },
+            "vi": {
+                "title": "",
+                "link": "https://vi.wikipedia.org/wiki/"
+            },
+            "zh": {
+                "title": "",
+                "link": "https://zh.wikipedia.org/wiki/"
+            }
+        }
+    },
+    {
+        "title": "New_Year's_Day",
+        "views": 1271924,
+        "link": "https://en.wikipedia.org/wiki/New_Year's_Day",
+        "translations": {
+            "af": {
+                "title": "Nuwejaarsdag",
+                "link": "https://af.wikipedia.org/wiki/Nuwejaarsdag"
+            },
+            "ar": {
+                "title": "رأس السنة الميلادية",
+                "link": "https://ar.wikipedia.org/wiki/رأس_السنة_الميلادية"
+            },
+            "arz": {
+                "title": "راس السنه الميلاديه",
+                "link": "https://arz.wikipedia.org/wiki/راس_السنه_الميلاديه"
+            },
+            "az": {
+                "title": "Yeni il günü",
+                "link": "https://az.wikipedia.org/wiki/Yeni_il_günü"
+            },
+            "bcl": {
+                "title": "Aldaw kan Bagong Taon",
+                "link": "https://bcl.wikipedia.org/wiki/Aldaw_kan_Bagong_Taon"
+            },
+            "bh": {
+                "title": "न्यू इयर",
+                "link": "https://bh.wikipedia.org/wiki/न्यू_इयर"
+            },
+            "bn": {
+                "title": "নববর্ষ (গ্রেগরীয় বর্ষপঞ্জি)",
+                "link": "https://bn.wikipedia.org/wiki/নববর্ষ_(গ্রেগরীয়_বর্ষপঞ্জি)"
+            },
+            "bo": {
+                "title": "གནམ་ལོ་གསར་ཚེས།",
+                "link": "https://bo.wikipedia.org/wiki/གནམ་ལོ་གསར་ཚེས།"
+            },
+            "cbk-zam": {
+                "title": "Dia de Nuevo Año",
+                "link": "https://cbk-zam.wikipedia.org/wiki/Dia_de_Nuevo_Año"
+            },
+            "ceb": {
+                "title": "Adlaw sa Bag-ong Tuig",
+                "link": "https://ceb.wikipedia.org/wiki/Adlaw_sa_Bag-ong_Tuig"
+            },
+            "cy": {
+                "title": "Dydd Calan",
+                "link": "https://cy.wikipedia.org/wiki/Dydd_Calan"
+            },
+            "da": {
+                "title": "Nytårsdag",
+                "link": "https://da.wikipedia.org/wiki/Nytårsdag"
+            },
+            "el": {
+                "title": "Ημέρα της Πρωτοχρονιάς",
+                "link": "https://el.wikipedia.org/wiki/Ημέρα_της_Πρωτοχρονιάς"
+            },
+            "eo": {
+                "title": "Novjara Tago",
+                "link": "https://eo.wikipedia.org/wiki/Novjara_Tago"
+            },
+            "es": {
+                "title": "Día de Año Nuevo",
+                "link": "https://es.wikipedia.org/wiki/Día_de_Año_Nuevo"
+            },
+            "et": {
+                "title": "Näärid",
+                "link": "https://et.wikipedia.org/wiki/Näärid"
+            },
+            "eu": {
+                "title": "Urte berri egun",
+                "link": "https://eu.wikipedia.org/wiki/Urte_berri_egun"
+            },
+            "fa": {
+                "title": "روز سال نو",
+                "link": "https://fa.wikipedia.org/wiki/روز_سال_نو"
+            },
+            "fi": {
+                "title": "Uudenvuodenpäivä",
+                "link": "https://fi.wikipedia.org/wiki/Uudenvuodenpäivä"
+            },
+            "gv": {
+                "title": "Laa yn Vlein Noa",
+                "link": "https://gv.wikipedia.org/wiki/Laa_yn_Vlein_Noa"
+            },
+            "he": {
+                "title": "ראש השנה האזרחית",
+                "link": "https://he.wikipedia.org/wiki/ראש_השנה_האזרחית"
+            },
+            "hi": {
+                "title": "नव वर्ष का दिन",
+                "link": "https://hi.wikipedia.org/wiki/नव_वर्ष_का_दिन"
+            },
+            "hy": {
+                "title": "Նոր տարվա օր",
+                "link": "https://hy.wikipedia.org/wiki/Նոր_տարվա_օր"
+            },
+            "id": {
+                "title": "Hari Tahun Baru",
+                "link": "https://id.wikipedia.org/wiki/Hari_Tahun_Baru"
+            },
+            "is": {
+                "title": "Nýár",
+                "link": "https://is.wikipedia.org/wiki/Nýár"
+            },
+            "ja": {
+                "title": "元日",
+                "link": "https://ja.wikipedia.org/wiki/元日"
+            },
+            "kcg": {
+                "title": "A̱tuk Mam A̱lyia̱ A̱fai",
+                "link": "https://kcg.wikipedia.org/wiki/A̱tuk_Mam_A̱lyia̱_A̱fai"
+            },
+            "ko": {
+                "title": "새해 첫날",
+                "link": "https://ko.wikipedia.org/wiki/새해_첫날"
+            },
+            "lb": {
+                "title": "Neijoerschdag",
+                "link": "https://lb.wikipedia.org/wiki/Neijoerschdag"
+            },
+            "lo": {
+                "title": "ວັນຂຶ້ນປີໃໝ່",
+                "link": "https://lo.wikipedia.org/wiki/ວັນຂຶ້ນປີໃໝ່"
+            },
+            "mai": {
+                "title": "नव वर्ष कें दिन",
+                "link": "https://mai.wikipedia.org/wiki/नव_वर्ष_कें_दिन"
+            },
+            "ml": {
+                "title": "പുതുവർഷ ദിനം",
+                "link": "https://ml.wikipedia.org/wiki/പുതുവർഷ_ദിനം"
+            },
+            "ms": {
+                "title": "Hari Tahun Baharu",
+                "link": "https://ms.wikipedia.org/wiki/Hari_Tahun_Baharu"
+            },
+            "my": {
+                "title": "နှစ်ဆန်းတစ်ရက်နေ့",
+                "link": "https://my.wikipedia.org/wiki/နှစ်ဆန်းတစ်ရက်နေ့"
+            },
+            "nn": {
+                "title": "Nyttårsdag",
+                "link": "https://nn.wikipedia.org/wiki/Nyttårsdag"
+            },
+            "nb": {
+                "title": "Første nyttårsdag",
+                "link": "https://nb.wikipedia.org/wiki/Første_nyttårsdag"
+            },
+            "pdc": {
+                "title": "Neiyaahrsdaag",
+                "link": "https://pdc.wikipedia.org/wiki/Neiyaahrsdaag"
+            },
+            "ru": {
+                "title": "День Нового года",
+                "link": "https://ru.wikipedia.org/wiki/День_Нового_года"
+            },
+            "sco": {
+                "title": "Ne'er's Day",
+                "link": "https://sco.wikipedia.org/wiki/Ne'er's_Day"
+            },
+            "simple": {
+                "title": "New Year's Day",
+                "link": "https://simple.wikipedia.org/wiki/New_Year's_Day"
+            },
+            "sv": {
+                "title": "Nyårsdagen",
+                "link": "https://sv.wikipedia.org/wiki/Nyårsdagen"
+            },
+            "ta": {
+                "title": "புத்தாண்டு நாள்",
+                "link": "https://ta.wikipedia.org/wiki/புத்தாண்டு_நாள்"
+            },
+            "te": {
+                "title": "నూతన సంవత్సర రోజు",
+                "link": "https://te.wikipedia.org/wiki/నూతన_సంవత్సర_రోజు"
+            },
+            "th": {
+                "title": "วันขึ้นปีใหม่",
+                "link": "https://th.wikipedia.org/wiki/วันขึ้นปีใหม่"
+            },
+            "tl": {
+                "title": "Araw ng Bagong Taon",
+                "link": "https://tl.wikipedia.org/wiki/Araw_ng_Bagong_Taon"
+            },
+            "tr": {
+                "title": "Yılbaşı",
+                "link": "https://tr.wikipedia.org/wiki/Yılbaşı"
+            },
+            "uz": {
+                "title": "Yangi yil kuni",
+                "link": "https://uz.wikipedia.org/wiki/Yangi_yil_kuni"
+            },
+            "vi": {
+                "title": "Tết Dương lịch",
+                "link": "https://vi.wikipedia.org/wiki/Tết_Dương_lịch"
+            },
+            "zh": {
+                "title": "元旦",
+                "link": "https://zh.wikipedia.org/wiki/元旦"
+            },
+            "zh-classical": {
+                "title": "元旦",
+                "link": "https://zh-classical.wikipedia.org/wiki/元旦"
+            },
+            "zh-yue": {
+                "title": "元旦",
+                "link": "https://zh-yue.wikipedia.org/wiki/元旦"
+            }
+        }
+    },
+    {
+        "title": "Special:Search",
+        "views": 1116540,
+        "link": "https://en.wikipedia.org/wiki/Special:Search",
+        "translations": {}
+    },
+    {
+        "title": "New_Year",
+        "views": 760990,
+        "link": "https://en.wikipedia.org/wiki/New_Year",
+        "translations": {
+            "ab": {
+                "title": "Ашықәс ҿыц",
+                "link": "https://ab.wikipedia.org/wiki/Ашықәс_ҿыц"
+            },
+            "als": {
+                "title": "Neujahr",
+                "link": "https://als.wikipedia.org/wiki/Neujahr"
+            },
+            "an": {
+                "title": "Cabo d'anyo",
+                "link": "https://an.wikipedia.org/wiki/Cabo_d'anyo"
+            },
+            "ar": {
+                "title": "رأس السنة",
+                "link": "https://ar.wikipedia.org/wiki/رأس_السنة"
+            },
+            "arz": {
+                "title": "راس السنه",
+                "link": "https://arz.wikipedia.org/wiki/راس_السنه"
+            },
+            "ast": {
+                "title": "Añu Nuevu",
+                "link": "https://ast.wikipedia.org/wiki/Añu_Nuevu"
+            },
+            "az": {
+                "title": "Yeni il",
+                "link": "https://az.wikipedia.org/wiki/Yeni_il"
+            },
+            "ba": {
+                "title": "Яңы йыл",
+                "link": "https://ba.wikipedia.org/wiki/Яңы_йыл"
+            },
+            "bat-smg": {
+                "title": "Naujė̄jė metā",
+                "link": "https://bat-smg.wikipedia.org/wiki/Naujė̄jė_metā"
+            },
+            "bcl": {
+                "title": "Bagong Taon",
+                "link": "https://bcl.wikipedia.org/wiki/Bagong_Taon"
+            },
+            "be": {
+                "title": "Новы год",
+                "link": "https://be.wikipedia.org/wiki/Новы_год"
+            },
+            "be-x-old": {
+                "title": "Новы год",
+                "link": "https://be-x-old.wikipedia.org/wiki/Новы_год"
+            },
+            "bg": {
+                "title": "Нова година",
+                "link": "https://bg.wikipedia.org/wiki/Нова_година"
+            },
+            "bh": {
+                "title": "नया साल",
+                "link": "https://bh.wikipedia.org/wiki/नया_साल"
+            },
+            "bjn": {
+                "title": "Tahun puga",
+                "link": "https://bjn.wikipedia.org/wiki/Tahun_puga"
+            },
+            "bn": {
+                "title": "নতুন বছর",
+                "link": "https://bn.wikipedia.org/wiki/নতুন_বছর"
+            },
+            "br": {
+                "title": "Kalanna",
+                "link": "https://br.wikipedia.org/wiki/Kalanna"
+            },
+            "bs": {
+                "title": "Nova godina",
+                "link": "https://bs.wikipedia.org/wiki/Nova_godina"
+            },
+            "bxr": {
+                "title": "Шэнэ жэлэй һайндэр",
+                "link": "https://bxr.wikipedia.org/wiki/Шэнэ_жэлэй_һайндэр"
+            },
+            "ca": {
+                "title": "Cap d'any",
+                "link": "https://ca.wikipedia.org/wiki/Cap_d'any"
+            },
+            "cbk-zam": {
+                "title": "Nuevo Año",
+                "link": "https://cbk-zam.wikipedia.org/wiki/Nuevo_Año"
+            },
+            "ceb": {
+                "title": "Bag-ong Tuig",
+                "link": "https://ceb.wikipedia.org/wiki/Bag-ong_Tuig"
+            },
+            "cs": {
+                "title": "Nový rok",
+                "link": "https://cs.wikipedia.org/wiki/Nový_rok"
+            },
+            "csb": {
+                "title": "Nowi Rok",
+                "link": "https://csb.wikipedia.org/wiki/Nowi_Rok"
+            },
+            "cv": {
+                "title": "Çĕнĕ Çул (уяв)",
+                "link": "https://cv.wikipedia.org/wiki/Çĕнĕ_Çул_(уяв)"
+            },
+            "da": {
+                "title": "Nytår",
+                "link": "https://da.wikipedia.org/wiki/Nytår"
+            },
+            "de": {
+                "title": "Neujahr",
+                "link": "https://de.wikipedia.org/wiki/Neujahr"
+            },
+            "diq": {
+                "title": "Roşanê Kormışkani",
+                "link": "https://diq.wikipedia.org/wiki/Roşanê_Kormışkani"
+            },
+            "dz": {
+                "title": "ཟླཝ་དང་པའི་ལོ་གསར།",
+                "link": "https://dz.wikipedia.org/wiki/ཟླཝ་དང་པའི་ལོ་གསར།"
+            },
+            "el": {
+                "title": "Πρωτοχρονιά",
+                "link": "https://el.wikipedia.org/wiki/Πρωτοχρονιά"
+            },
+            "eml": {
+                "title": "Bòṅ Cavdàn",
+                "link": "https://eml.wikipedia.org/wiki/Bòṅ_Cavdàn"
+            },
+            "eo": {
+                "title": "Novjaro",
+                "link": "https://eo.wikipedia.org/wiki/Novjaro"
+            },
+            "es": {
+                "title": "Año Nuevo",
+                "link": "https://es.wikipedia.org/wiki/Año_Nuevo"
+            },
+            "et": {
+                "title": "Uusaasta",
+                "link": "https://et.wikipedia.org/wiki/Uusaasta"
+            },
+            "eu": {
+                "title": "Urteberri",
+                "link": "https://eu.wikipedia.org/wiki/Urteberri"
+            },
+            "ext": {
+                "title": "Añu Nuevu",
+                "link": "https://ext.wikipedia.org/wiki/Añu_Nuevu"
+            },
+            "fa": {
+                "title": "سال نو",
+                "link": "https://fa.wikipedia.org/wiki/سال_نو"
+            },
+            "fi": {
+                "title": "Uusivuosi",
+                "link": "https://fi.wikipedia.org/wiki/Uusivuosi"
+            },
+            "fj": {
+                "title": "Yabaki vou",
+                "link": "https://fj.wikipedia.org/wiki/Yabaki_vou"
+            },
+            "fon": {
+                "title": "Taɖeglaxwè",
+                "link": "https://fon.wikipedia.org/wiki/Taɖeglaxwè"
+            },
+            "fr": {
+                "title": "Jour de l'an",
+                "link": "https://fr.wikipedia.org/wiki/Jour_de_l'an"
+            },
+            "frp": {
+                "title": "Jorn de l’an",
+                "link": "https://frp.wikipedia.org/wiki/Jorn_de_l’an"
+            },
+            "gd": {
+                "title": "Bliadhna Ùr",
+                "link": "https://gd.wikipedia.org/wiki/Bliadhna_Ùr"
+            },
+            "gl": {
+                "title": "Aninovo",
+                "link": "https://gl.wikipedia.org/wiki/Aninovo"
+            },
+            "gn": {
+                "title": "Ary Pyahu",
+                "link": "https://gn.wikipedia.org/wiki/Ary_Pyahu"
+            },
+            "guc": {
+                "title": "Juya jeketü",
+                "link": "https://guc.wikipedia.org/wiki/Juya_jeketü"
+            },
+            "he": {
+                "title": "תחילת שנה חדשה",
+                "link": "https://he.wikipedia.org/wiki/תחילת_שנה_חדשה"
+            },
+            "hi": {
+                "title": "नव वर्ष",
+                "link": "https://hi.wikipedia.org/wiki/नव_वर्ष"
+            },
+            "hr": {
+                "title": "Nova godina",
+                "link": "https://hr.wikipedia.org/wiki/Nova_godina"
+            },
+            "hsb": {
+                "title": "Nowe lěto",
+                "link": "https://hsb.wikipedia.org/wiki/Nowe_lěto"
+            },
+            "hu": {
+                "title": "Újév",
+                "link": "https://hu.wikipedia.org/wiki/Újév"
+            },
+            "hy": {
+                "title": "Ամանոր",
+                "link": "https://hy.wikipedia.org/wiki/Ամանոր"
+            },
+            "hyw": {
+                "title": "Ամանոր, Կաղանդ",
+                "link": "https://hyw.wikipedia.org/wiki/Ամանոր,_Կաղանդ"
+            },
+            "id": {
+                "title": "Tahun baru",
+                "link": "https://id.wikipedia.org/wiki/Tahun_baru"
+            },
+            "ilo": {
+                "title": "Baro a Tawen",
+                "link": "https://ilo.wikipedia.org/wiki/Baro_a_Tawen"
+            },
+            "io": {
+                "title": "Nov-yaro",
+                "link": "https://io.wikipedia.org/wiki/Nov-yaro"
+            },
+            "is": {
+                "title": "Áramót",
+                "link": "https://is.wikipedia.org/wiki/Áramót"
+            },
+            "it": {
+                "title": "Capodanno",
+                "link": "https://it.wikipedia.org/wiki/Capodanno"
+            },
+            "ja": {
+                "title": "新年",
+                "link": "https://ja.wikipedia.org/wiki/新年"
+            },
+            "jv": {
+                "title": "Warsa Enggal",
+                "link": "https://jv.wikipedia.org/wiki/Warsa_Enggal"
+            },
+            "ka": {
+                "title": "ახალი წელი",
+                "link": "https://ka.wikipedia.org/wiki/ახალი_წელი"
+            },
+            "kk": {
+                "title": "Жаңа жыл",
+                "link": "https://kk.wikipedia.org/wiki/Жаңа_жыл"
+            },
+            "ko": {
+                "title": "새해",
+                "link": "https://ko.wikipedia.org/wiki/새해"
+            },
+            "ksh": {
+                "title": "Neujooßdaach",
+                "link": "https://ksh.wikipedia.org/wiki/Neujooßdaach"
+            },
+            "kv": {
+                "title": "Выль во",
+                "link": "https://kv.wikipedia.org/wiki/Выль_во"
+            },
+            "ky": {
+                "title": "Жаңы жыл",
+                "link": "https://ky.wikipedia.org/wiki/Жаңы_жыл"
+            },
+            "lbe": {
+                "title": "ЦӀусса шин",
+                "link": "https://lbe.wikipedia.org/wiki/ЦӀусса_шин"
+            },
+            "lfn": {
+                "title": "Anio nova",
+                "link": "https://lfn.wikipedia.org/wiki/Anio_nova"
+            },
+            "ln": {
+                "title": "Mokɔlɔ ya mobú ya síká",
+                "link": "https://ln.wikipedia.org/wiki/Mokɔlɔ_ya_mobú_ya_síká"
+            },
+            "lt": {
+                "title": "Naujieji metai",
+                "link": "https://lt.wikipedia.org/wiki/Naujieji_metai"
+            },
+            "lv": {
+                "title": "Jaunais gads",
+                "link": "https://lv.wikipedia.org/wiki/Jaunais_gads"
+            },
+            "mhr": {
+                "title": "У ий",
+                "link": "https://mhr.wikipedia.org/wiki/У_ий"
+            },
+            "mk": {
+                "title": "Нова година",
+                "link": "https://mk.wikipedia.org/wiki/Нова_година"
+            },
+            "ml": {
+                "title": "പുതുവത്സരം",
+                "link": "https://ml.wikipedia.org/wiki/പുതുവത്സരം"
+            },
+            "mn": {
+                "title": "Шинэ жилийн баяр",
+                "link": "https://mn.wikipedia.org/wiki/Шинэ_жилийн_баяр"
+            },
+            "mr": {
+                "title": "नवीन वर्ष",
+                "link": "https://mr.wikipedia.org/wiki/नवीन_वर्ष"
+            },
+            "ms": {
+                "title": "Tahun Baru",
+                "link": "https://ms.wikipedia.org/wiki/Tahun_Baru"
+            },
+            "nds-nl": {
+                "title": "Nijjoar",
+                "link": "https://nds-nl.wikipedia.org/wiki/Nijjoar"
+            },
+            "ne": {
+                "title": "नयाँ वर्ष",
+                "link": "https://ne.wikipedia.org/wiki/नयाँ_वर्ष"
+            },
+            "nl": {
+                "title": "Nieuwjaar",
+                "link": "https://nl.wikipedia.org/wiki/Nieuwjaar"
+            },
+            "nn": {
+                "title": "Nyttår",
+                "link": "https://nn.wikipedia.org/wiki/Nyttår"
+            },
+            "nb": {
+                "title": "Nyttår",
+                "link": "https://nb.wikipedia.org/wiki/Nyttår"
+            },
+            "oc": {
+                "title": "An Nòu",
+                "link": "https://oc.wikipedia.org/wiki/An_Nòu"
+            },
+            "or": {
+                "title": "ନୂତନ ବର୍ଷ",
+                "link": "https://or.wikipedia.org/wiki/ନୂତନ_ବର୍ଷ"
+            },
+            "os": {
+                "title": "Ног аз",
+                "link": "https://os.wikipedia.org/wiki/Ног_аз"
+            },
+            "pa": {
+                "title": "ਨਵਾਂ ਸਾਲ",
+                "link": "https://pa.wikipedia.org/wiki/ਨਵਾਂ_ਸਾਲ"
+            },
+            "pap": {
+                "title": "Aña Nobo",
+                "link": "https://pap.wikipedia.org/wiki/Aña_Nobo"
+            },
+            "pl": {
+                "title": "Nowy Rok",
+                "link": "https://pl.wikipedia.org/wiki/Nowy_Rok"
+            },
+            "pnb": {
+                "title": "نواں سال",
+                "link": "https://pnb.wikipedia.org/wiki/نواں_سال"
+            },
+            "ps": {
+                "title": "نوی کال",
+                "link": "https://ps.wikipedia.org/wiki/نوی_کال"
+            },
+            "pt": {
+                "title": "Ano-novo",
+                "link": "https://pt.wikipedia.org/wiki/Ano-novo"
+            },
+            "qu": {
+                "title": "Musuq Wata",
+                "link": "https://qu.wikipedia.org/wiki/Musuq_Wata"
+            },
+            "ro": {
+                "title": "Anul Nou",
+                "link": "https://ro.wikipedia.org/wiki/Anul_Nou"
+            },
+            "ru": {
+                "title": "Новый год",
+                "link": "https://ru.wikipedia.org/wiki/Новый_год"
+            },
+            "sah": {
+                "title": "Саҥа Дьыл",
+                "link": "https://sah.wikipedia.org/wiki/Саҥа_Дьыл"
+            },
+            "sat": {
+                "title": "ᱱᱟᱶᱟ ᱥᱮᱨᱢᱟ",
+                "link": "https://sat.wikipedia.org/wiki/ᱱᱟᱶᱟ_ᱥᱮᱨᱢᱟ"
+            },
+            "scn": {
+                "title": "Capudannu",
+                "link": "https://scn.wikipedia.org/wiki/Capudannu"
+            },
+            "sd": {
+                "title": "نئون سال",
+                "link": "https://sd.wikipedia.org/wiki/نئون_سال"
+            },
+            "sh": {
+                "title": "Nova godina",
+                "link": "https://sh.wikipedia.org/wiki/Nova_godina"
+            },
+            "si": {
+                "title": "නව වසර",
+                "link": "https://si.wikipedia.org/wiki/නව_වසර"
+            },
+            "simple": {
+                "title": "New Year",
+                "link": "https://simple.wikipedia.org/wiki/New_Year"
+            },
+            "sk": {
+                "title": "Nový rok",
+                "link": "https://sk.wikipedia.org/wiki/Nový_rok"
+            },
+            "sl": {
+                "title": "Novo leto",
+                "link": "https://sl.wikipedia.org/wiki/Novo_leto"
+            },
+            "so": {
+                "title": "Sannadka cusub",
+                "link": "https://so.wikipedia.org/wiki/Sannadka_cusub"
+            },
+            "sq": {
+                "title": "Viti i Ri",
+                "link": "https://sq.wikipedia.org/wiki/Viti_i_Ri"
+            },
+            "sr": {
+                "title": "Нова година",
+                "link": "https://sr.wikipedia.org/wiki/Нова_година"
+            },
+            "su": {
+                "title": "Pabaru",
+                "link": "https://su.wikipedia.org/wiki/Pabaru"
+            },
+            "sv": {
+                "title": "Nyår",
+                "link": "https://sv.wikipedia.org/wiki/Nyår"
+            },
+            "sw": {
+                "title": "Mwaka mpya",
+                "link": "https://sw.wikipedia.org/wiki/Mwaka_mpya"
+            },
+            "ta": {
+                "title": "புத்தாண்டு",
+                "link": "https://ta.wikipedia.org/wiki/புத்தாண்டு"
+            },
+            "te": {
+                "title": "కొత్త సంవత్సరం",
+                "link": "https://te.wikipedia.org/wiki/కొత్త_సంవత్సరం"
+            },
+            "tg": {
+                "title": "Соли Нав",
+                "link": "https://tg.wikipedia.org/wiki/Соли_Нав"
+            },
+            "tk": {
+                "title": "Täze ýyl",
+                "link": "https://tk.wikipedia.org/wiki/Täze_ýyl"
+            },
+            "tl": {
+                "title": "Bagong Taon",
+                "link": "https://tl.wikipedia.org/wiki/Bagong_Taon"
+            },
+            "tr": {
+                "title": "Yeni yıl",
+                "link": "https://tr.wikipedia.org/wiki/Yeni_yıl"
+            },
+            "tt": {
+                "title": "Яңа ел",
+                "link": "https://tt.wikipedia.org/wiki/Яңа_ел"
+            },
+            "uk": {
+                "title": "Новий рік",
+                "link": "https://uk.wikipedia.org/wiki/Новий_рік"
+            },
+            "ur": {
+                "title": "سال نو",
+                "link": "https://ur.wikipedia.org/wiki/سال_نو"
+            },
+            "uz": {
+                "title": "Yangi yil",
+                "link": "https://uz.wikipedia.org/wiki/Yangi_yil"
+            },
+            "vec": {
+                "title": "Cao de Ano",
+                "link": "https://vec.wikipedia.org/wiki/Cao_de_Ano"
+            },
+            "vep": {
+                "title": "Uz' voz'",
+                "link": "https://vep.wikipedia.org/wiki/Uz'_voz'"
+            },
+            "vi": {
+                "title": "Năm mới",
+                "link": "https://vi.wikipedia.org/wiki/Năm_mới"
+            },
+            "vls": {
+                "title": "Nieuwjoar",
+                "link": "https://vls.wikipedia.org/wiki/Nieuwjoar"
+            },
+            "wa": {
+                "title": "Novelan",
+                "link": "https://wa.wikipedia.org/wiki/Novelan"
+            },
+            "war": {
+                "title": "Bag-o nga Tuig",
+                "link": "https://war.wikipedia.org/wiki/Bag-o_nga_Tuig"
+            },
+            "wuu": {
+                "title": "新年",
+                "link": "https://wuu.wikipedia.org/wiki/新年"
+            },
+            "xmf": {
+                "title": "ახალი წანა",
+                "link": "https://xmf.wikipedia.org/wiki/ახალი_წანა"
+            },
+            "za": {
+                "title": "Bi moq",
+                "link": "https://za.wikipedia.org/wiki/Bi_moq"
+            },
+            "zh": {
+                "title": "新年",
+                "link": "https://zh.wikipedia.org/wiki/新年"
+            },
+            "zh-yue": {
+                "title": "新年",
+                "link": "https://zh-yue.wikipedia.org/wiki/新年"
+            }
+        }
+    },
+    {
+        "title": "Lynyrd_Skynyrd",
+        "views": 416268,
+        "link": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd",
+        "translations": {
+            "ar": {
+                "title": "لينيرد سكاينيرد",
+                "link": "https://ar.wikipedia.org/wiki/لينيرد_سكاينيرد"
+            },
+            "arz": {
+                "title": "لينيرد سكاينيرد",
+                "link": "https://arz.wikipedia.org/wiki/لينيرد_سكاينيرد"
+            },
+            "ast": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://ast.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "azb": {
+                "title": "لنرد اسکینرد",
+                "link": "https://azb.wikipedia.org/wiki/لنرد_اسکینرد"
+            },
+            "bar": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://bar.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "be": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://be.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "bg": {
+                "title": "Линърд Скинърд",
+                "link": "https://bg.wikipedia.org/wiki/Линърд_Скинърд"
+            },
+            "bs": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://bs.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "ca": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://ca.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "cs": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://cs.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "da": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://da.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "de": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://de.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "el": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://el.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "eo": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://eo.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "es": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://es.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "et": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://et.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "eu": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://eu.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "fa": {
+                "title": "لنرد اسکینرد",
+                "link": "https://fa.wikipedia.org/wiki/لنرد_اسکینرد"
+            },
+            "fi": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://fi.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "fr": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://fr.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "ga": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://ga.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "gl": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://gl.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "he": {
+                "title": "לנרד סקינרד",
+                "link": "https://he.wikipedia.org/wiki/לנרד_סקינרד"
+            },
+            "hr": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://hr.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "hsb": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://hsb.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "hu": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://hu.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "id": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://id.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "io": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://io.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "it": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://it.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "ja": {
+                "title": "レーナード・スキナード",
+                "link": "https://ja.wikipedia.org/wiki/レーナード・スキナード"
+            },
+            "ka": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://ka.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "ko": {
+                "title": "레너드 스키너드",
+                "link": "https://ko.wikipedia.org/wiki/레너드_스키너드"
+            },
+            "la": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://la.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "lt": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://lt.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "lv": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://lv.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "mk": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://mk.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "ms": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://ms.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "new": {
+                "title": "लिनार्ड स्किनार्ड",
+                "link": "https://new.wikipedia.org/wiki/लिनार्ड_स्किनार्ड"
+            },
+            "nl": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://nl.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "nn": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://nn.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "nb": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://nb.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "pl": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://pl.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "pt": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://pt.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "ro": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://ro.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "ru": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://ru.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "simple": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://simple.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "sk": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://sk.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "sl": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://sl.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "sr": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://sr.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "sv": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://sv.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "th": {
+                "title": "ลินเนิร์ด สกินเนิร์ด",
+                "link": "https://th.wikipedia.org/wiki/ลินเนิร์ด_สกินเนิร์ด"
+            },
+            "tl": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://tl.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "tr": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://tr.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "uk": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://uk.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "uz": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://uz.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "vi": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://vi.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "zea": {
+                "title": "Lynyrd Skynyrd",
+                "link": "https://zea.wikipedia.org/wiki/Lynyrd_Skynyrd"
+            },
+            "zh": {
+                "title": "林納·史金納",
+                "link": "https://zh.wikipedia.org/wiki/林納·史金納"
+            }
+        }
+    },
+    {
+        "title": "Murder_of_Dee_Dee_Blanchard",
+        "views": 338406,
+        "link": "https://en.wikipedia.org/wiki/Murder_of_Dee_Dee_Blanchard",
+        "translations": {
+            "de": {
+                "title": "Mordfall Dee Dee Blanchard",
+                "link": "https://de.wikipedia.org/wiki/Mordfall_Dee_Dee_Blanchard"
+            },
+            "es": {
+                "title": "Asesinato de Dee Dee Blanchard",
+                "link": "https://es.wikipedia.org/wiki/Asesinato_de_Dee_Dee_Blanchard"
+            },
+            "eu": {
+                "title": "Dee Dee Blancharden hilketa",
+                "link": "https://eu.wikipedia.org/wiki/Dee_Dee_Blancharden_hilketa"
+            },
+            "fr": {
+                "title": "Affaire Dee Dee et Gypsy Rose Blanchard",
+                "link": "https://fr.wikipedia.org/wiki/Affaire_Dee_Dee_et_Gypsy_Rose_Blanchard"
+            },
+            "he": {
+                "title": "רצח דידי בלנשרד",
+                "link": "https://he.wikipedia.org/wiki/רצח_דידי_בלנשרד"
+            },
+            "it": {
+                "title": "Omicidio di Dee Dee Blanchard",
+                "link": "https://it.wikipedia.org/wiki/Omicidio_di_Dee_Dee_Blanchard"
+            },
+            "ja": {
+                "title": "ディー・ディー・ブランチャード殺害事件",
+                "link": "https://ja.wikipedia.org/wiki/ディー・ディー・ブランチャード殺害事件"
+            },
+            "pl": {
+                "title": "Morderstwo Dee Dee Blanchard",
+                "link": "https://pl.wikipedia.org/wiki/Morderstwo_Dee_Dee_Blanchard"
+            },
+            "pt": {
+                "title": "Assassinato de Dee Dee Blanchard",
+                "link": "https://pt.wikipedia.org/wiki/Assassinato_de_Dee_Dee_Blanchard"
+            },
+            "ru": {
+                "title": "Убийство Ди-Ди Бланшар",
+                "link": "https://ru.wikipedia.org/wiki/Убийство_Ди-Ди_Бланшар"
+            },
+            "simple": {
+                "title": "Murder of Dee Dee Blanchard",
+                "link": "https://simple.wikipedia.org/wiki/Murder_of_Dee_Dee_Blanchard"
+            },
+            "sv": {
+                "title": "Mordet på Dee Dee Blanchard",
+                "link": "https://sv.wikipedia.org/wiki/Mordet_på_Dee_Dee_Blanchard"
+            },
+            "uz": {
+                "title": "Dee Dee Blanchardning o'ldirilishi",
+                "link": "https://uz.wikipedia.org/wiki/Dee_Dee_Blanchardning_o'ldirilishi"
+            },
+            "zh": {
+                "title": "迪迪·布朗夏爾謀殺案",
+                "link": "https://zh.wikipedia.org/wiki/迪迪·布朗夏爾謀殺案"
+            }
+        }
+    },
+    {
+        "title": "Elle_King",
+        "views": 338065,
+        "link": "https://en.wikipedia.org/wiki/Elle_King",
+        "translations": {
+            "ar": {
+                "title": "إيل كينغ",
+                "link": "https://ar.wikipedia.org/wiki/إيل_كينغ"
+            },
+            "arz": {
+                "title": "ايل كينج",
+                "link": "https://arz.wikipedia.org/wiki/ايل_كينج"
+            },
+            "azb": {
+                "title": "ال کینق",
+                "link": "https://azb.wikipedia.org/wiki/ال_کینق"
+            },
+            "cs": {
+                "title": "Elle King",
+                "link": "https://cs.wikipedia.org/wiki/Elle_King"
+            },
+            "de": {
+                "title": "Elle King",
+                "link": "https://de.wikipedia.org/wiki/Elle_King"
+            },
+            "es": {
+                "title": "Elle King",
+                "link": "https://es.wikipedia.org/wiki/Elle_King"
+            },
+            "fa": {
+                "title": "ال کینگ",
+                "link": "https://fa.wikipedia.org/wiki/ال_کینگ"
+            },
+            "fi": {
+                "title": "Elle King",
+                "link": "https://fi.wikipedia.org/wiki/Elle_King"
+            },
+            "fr": {
+                "title": "Elle King",
+                "link": "https://fr.wikipedia.org/wiki/Elle_King"
+            },
+            "he": {
+                "title": "אל קינג",
+                "link": "https://he.wikipedia.org/wiki/אל_קינג"
+            },
+            "id": {
+                "title": "Elle King",
+                "link": "https://id.wikipedia.org/wiki/Elle_King"
+            },
+            "it": {
+                "title": "Elle King",
+                "link": "https://it.wikipedia.org/wiki/Elle_King"
+            },
+            "ka": {
+                "title": "ელ კინგი",
+                "link": "https://ka.wikipedia.org/wiki/ელ_კინგი"
+            },
+            "ko": {
+                "title": "엘 킹",
+                "link": "https://ko.wikipedia.org/wiki/엘_킹"
+            },
+            "ms": {
+                "title": "Elle King",
+                "link": "https://ms.wikipedia.org/wiki/Elle_King"
+            },
+            "nl": {
+                "title": "Elle King",
+                "link": "https://nl.wikipedia.org/wiki/Elle_King"
+            },
+            "pt": {
+                "title": "Elle King",
+                "link": "https://pt.wikipedia.org/wiki/Elle_King"
+            },
+            "ru": {
+                "title": "Кинг, Эль",
+                "link": "https://ru.wikipedia.org/wiki/Кинг,_Эль"
+            },
+            "simple": {
+                "title": "Elle King",
+                "link": "https://simple.wikipedia.org/wiki/Elle_King"
+            },
+            "sv": {
+                "title": "Elle King",
+                "link": "https://sv.wikipedia.org/wiki/Elle_King"
+            },
+            "zh": {
+                "title": "埃爾·金 (歌手)",
+                "link": "https://zh.wikipedia.org/wiki/埃爾·金_(歌手)"
+            }
+        }
+    },
+    {
+        "title": "Saltburn_(film)",
+        "views": 334803,
+        "link": "https://en.wikipedia.org/wiki/Saltburn_(film)",
+        "translations": {
+            "bn": {
+                "title": "সল্টবার্ন (চলচ্চিত্র)",
+                "link": "https://bn.wikipedia.org/wiki/সল্টবার্ন_(চলচ্চিত্র)"
+            },
+            "cs": {
+                "title": "Saltburn",
+                "link": "https://cs.wikipedia.org/wiki/Saltburn"
+            },
+            "de": {
+                "title": "Saltburn (Film)",
+                "link": "https://de.wikipedia.org/wiki/Saltburn_(Film)"
+            },
+            "el": {
+                "title": "Saltburn",
+                "link": "https://el.wikipedia.org/wiki/Saltburn"
+            },
+            "es": {
+                "title": "Saltburn",
+                "link": "https://es.wikipedia.org/wiki/Saltburn"
+            },
+            "eu": {
+                "title": "Saltburn",
+                "link": "https://eu.wikipedia.org/wiki/Saltburn"
+            },
+            "fa": {
+                "title": "سالتبرن (فیلم)",
+                "link": "https://fa.wikipedia.org/wiki/سالتبرن_(فیلم)"
+            },
+            "fi": {
+                "title": "Saltburn",
+                "link": "https://fi.wikipedia.org/wiki/Saltburn"
+            },
+            "fr": {
+                "title": "Saltburn (film)",
+                "link": "https://fr.wikipedia.org/wiki/Saltburn_(film)"
+            },
+            "gl": {
+                "title": "Saltburn",
+                "link": "https://gl.wikipedia.org/wiki/Saltburn"
+            },
+            "he": {
+                "title": "סלטברן (סרט)",
+                "link": "https://he.wikipedia.org/wiki/סלטברן_(סרט)"
+            },
+            "id": {
+                "title": "Saltburn (film)",
+                "link": "https://id.wikipedia.org/wiki/Saltburn_(film)"
+            },
+            "it": {
+                "title": "Saltburn (film)",
+                "link": "https://it.wikipedia.org/wiki/Saltburn_(film)"
+            },
+            "ko": {
+                "title": "솔트번",
+                "link": "https://ko.wikipedia.org/wiki/솔트번"
+            },
+            "lv": {
+                "title": "Saltburn",
+                "link": "https://lv.wikipedia.org/wiki/Saltburn"
+            },
+            "mni": {
+                "title": "ꯁꯣꯜꯠꯕꯔꯟ (ꯃꯃꯤ ꯀꯨꯝꯍꯩ)",
+                "link": "https://mni.wikipedia.org/wiki/ꯁꯣꯜꯠꯕꯔꯟ_(ꯃꯃꯤ_ꯀꯨꯝꯍꯩ)"
+            },
+            "nl": {
+                "title": "Saltburn",
+                "link": "https://nl.wikipedia.org/wiki/Saltburn"
+            },
+            "pt": {
+                "title": "Saltburn (filme)",
+                "link": "https://pt.wikipedia.org/wiki/Saltburn_(filme)"
+            },
+            "ro": {
+                "title": "Saltburn (film)",
+                "link": "https://ro.wikipedia.org/wiki/Saltburn_(film)"
+            },
+            "ru": {
+                "title": "Солтберн",
+                "link": "https://ru.wikipedia.org/wiki/Солтберн"
+            },
+            "sq": {
+                "title": "Saltburn (film)",
+                "link": "https://sq.wikipedia.org/wiki/Saltburn_(film)"
+            },
+            "sr": {
+                "title": "Солтберн",
+                "link": "https://sr.wikipedia.org/wiki/Солтберн"
+            },
+            "sv": {
+                "title": "Saltburn (film)",
+                "link": "https://sv.wikipedia.org/wiki/Saltburn_(film)"
+            },
+            "uk": {
+                "title": "Солтберн",
+                "link": "https://uk.wikipedia.org/wiki/Солтберн"
+            },
+            "zh": {
+                "title": "萨特本",
+                "link": "https://zh.wikipedia.org/wiki/萨特本"
+            }
+        }
+    },
+    {
+        "title": "Paul_Anka",
+        "views": 324878,
+        "link": "https://en.wikipedia.org/wiki/Paul_Anka",
+        "translations": {
+            "af": {
+                "title": "Paul Anka",
+                "link": "https://af.wikipedia.org/wiki/Paul_Anka"
+            },
+            "ar": {
+                "title": "بول عنقا",
+                "link": "https://ar.wikipedia.org/wiki/بول_عنقا"
+            },
+            "arz": {
+                "title": "بول انكا",
+                "link": "https://arz.wikipedia.org/wiki/بول_انكا"
+            },
+            "az": {
+                "title": "Pol Anka",
+                "link": "https://az.wikipedia.org/wiki/Pol_Anka"
+            },
+            "azb": {
+                "title": "پل آنکا",
+                "link": "https://azb.wikipedia.org/wiki/پل_آنکا"
+            },
+            "bg": {
+                "title": "Пол Анка",
+                "link": "https://bg.wikipedia.org/wiki/Пол_Анка"
+            },
+            "ca": {
+                "title": "Paul Anka",
+                "link": "https://ca.wikipedia.org/wiki/Paul_Anka"
+            },
+            "ckb": {
+                "title": "پۆڵ ئانکا",
+                "link": "https://ckb.wikipedia.org/wiki/پۆڵ_ئانکا"
+            },
+            "cs": {
+                "title": "Paul Anka",
+                "link": "https://cs.wikipedia.org/wiki/Paul_Anka"
+            },
+            "da": {
+                "title": "Paul Anka",
+                "link": "https://da.wikipedia.org/wiki/Paul_Anka"
+            },
+            "de": {
+                "title": "Paul Anka",
+                "link": "https://de.wikipedia.org/wiki/Paul_Anka"
+            },
+            "el": {
+                "title": "Πωλ Άνκα",
+                "link": "https://el.wikipedia.org/wiki/Πωλ_Άνκα"
+            },
+            "eo": {
+                "title": "Paul Anka",
+                "link": "https://eo.wikipedia.org/wiki/Paul_Anka"
+            },
+            "es": {
+                "title": "Paul Anka",
+                "link": "https://es.wikipedia.org/wiki/Paul_Anka"
+            },
+            "et": {
+                "title": "Paul Anka",
+                "link": "https://et.wikipedia.org/wiki/Paul_Anka"
+            },
+            "eu": {
+                "title": "Paul Anka",
+                "link": "https://eu.wikipedia.org/wiki/Paul_Anka"
+            },
+            "fa": {
+                "title": "پل آنکا",
+                "link": "https://fa.wikipedia.org/wiki/پل_آنکا"
+            },
+            "fi": {
+                "title": "Paul Anka",
+                "link": "https://fi.wikipedia.org/wiki/Paul_Anka"
+            },
+            "fr": {
+                "title": "Paul Anka",
+                "link": "https://fr.wikipedia.org/wiki/Paul_Anka"
+            },
+            "gl": {
+                "title": "Paul Anka",
+                "link": "https://gl.wikipedia.org/wiki/Paul_Anka"
+            },
+            "he": {
+                "title": "פול אנקה",
+                "link": "https://he.wikipedia.org/wiki/פול_אנקה"
+            },
+            "hr": {
+                "title": "Paul Anka",
+                "link": "https://hr.wikipedia.org/wiki/Paul_Anka"
+            },
+            "hu": {
+                "title": "Paul Anka",
+                "link": "https://hu.wikipedia.org/wiki/Paul_Anka"
+            },
+            "hy": {
+                "title": "Փոլ Անքա",
+                "link": "https://hy.wikipedia.org/wiki/Փոլ_Անքա"
+            },
+            "id": {
+                "title": "Paul Anka",
+                "link": "https://id.wikipedia.org/wiki/Paul_Anka"
+            },
+            "io": {
+                "title": "Paul Anka",
+                "link": "https://io.wikipedia.org/wiki/Paul_Anka"
+            },
+            "it": {
+                "title": "Paul Anka",
+                "link": "https://it.wikipedia.org/wiki/Paul_Anka"
+            },
+            "ja": {
+                "title": "ポール・アンカ",
+                "link": "https://ja.wikipedia.org/wiki/ポール・アンカ"
+            },
+            "ko": {
+                "title": "폴 앵카",
+                "link": "https://ko.wikipedia.org/wiki/폴_앵카"
+            },
+            "la": {
+                "title": "Paulus Anka",
+                "link": "https://la.wikipedia.org/wiki/Paulus_Anka"
+            },
+            "ml": {
+                "title": "പോൾ അൻക",
+                "link": "https://ml.wikipedia.org/wiki/പോൾ_അൻക"
+            },
+            "ms": {
+                "title": "Paul Anka",
+                "link": "https://ms.wikipedia.org/wiki/Paul_Anka"
+            },
+            "nl": {
+                "title": "Paul Anka",
+                "link": "https://nl.wikipedia.org/wiki/Paul_Anka"
+            },
+            "nb": {
+                "title": "Paul Anka",
+                "link": "https://nb.wikipedia.org/wiki/Paul_Anka"
+            },
+            "oc": {
+                "title": "Paul Anka",
+                "link": "https://oc.wikipedia.org/wiki/Paul_Anka"
+            },
+            "pl": {
+                "title": "Paul Anka",
+                "link": "https://pl.wikipedia.org/wiki/Paul_Anka"
+            },
+            "pt": {
+                "title": "Paul Anka",
+                "link": "https://pt.wikipedia.org/wiki/Paul_Anka"
+            },
+            "qu": {
+                "title": "Paul Anka",
+                "link": "https://qu.wikipedia.org/wiki/Paul_Anka"
+            },
+            "ro": {
+                "title": "Paul Anka",
+                "link": "https://ro.wikipedia.org/wiki/Paul_Anka"
+            },
+            "ru": {
+                "title": "Анка, Пол",
+                "link": "https://ru.wikipedia.org/wiki/Анка,_Пол"
+            },
+            "sc": {
+                "title": "Paul Anka",
+                "link": "https://sc.wikipedia.org/wiki/Paul_Anka"
+            },
+            "scn": {
+                "title": "Paul Anka",
+                "link": "https://scn.wikipedia.org/wiki/Paul_Anka"
+            },
+            "sh": {
+                "title": "Paul Anka",
+                "link": "https://sh.wikipedia.org/wiki/Paul_Anka"
+            },
+            "simple": {
+                "title": "Paul Anka",
+                "link": "https://simple.wikipedia.org/wiki/Paul_Anka"
+            },
+            "sk": {
+                "title": "Paul Anka",
+                "link": "https://sk.wikipedia.org/wiki/Paul_Anka"
+            },
+            "sv": {
+                "title": "Paul Anka",
+                "link": "https://sv.wikipedia.org/wiki/Paul_Anka"
+            },
+            "tay": {
+                "title": "Paul Anka",
+                "link": "https://tay.wikipedia.org/wiki/Paul_Anka"
+            },
+            "tg": {
+                "title": "Пол Анка",
+                "link": "https://tg.wikipedia.org/wiki/Пол_Анка"
+            },
+            "th": {
+                "title": "พอล แองคา",
+                "link": "https://th.wikipedia.org/wiki/พอล_แองคา"
+            },
+            "tr": {
+                "title": "Paul Anka",
+                "link": "https://tr.wikipedia.org/wiki/Paul_Anka"
+            },
+            "uk": {
+                "title": "Пол Анка",
+                "link": "https://uk.wikipedia.org/wiki/Пол_Анка"
+            },
+            "vi": {
+                "title": "Paul Anka",
+                "link": "https://vi.wikipedia.org/wiki/Paul_Anka"
+            },
+            "vo": {
+                "title": "Paul Anka",
+                "link": "https://vo.wikipedia.org/wiki/Paul_Anka"
+            },
+            "zh": {
+                "title": "保羅·安卡",
+                "link": "https://zh.wikipedia.org/wiki/保羅·安卡"
+            },
+            "zh-yue": {
+                "title": "保羅安卡",
+                "link": "https://zh-yue.wikipedia.org/wiki/保羅安卡"
+            }
+        }
+    },
+    {
+        "title": "Salaar:_Part_1_–_Ceasefire",
+        "views": 267833,
+        "link": "https://en.wikipedia.org/wiki/Salaar:_Part_1_–_Ceasefire",
+        "translations": {
+            "as": {
+                "title": "ছালাৰ: পাৰ্ট ওৱান - চিজফায়াৰ",
+                "link": "https://as.wikipedia.org/wiki/ছালাৰ:_পাৰ্ট_ওৱান_-_চিজফায়াৰ"
+            },
+            "bn": {
+                "title": "সালার: পার্ট ওয়ান – সিজফায়ার",
+                "link": "https://bn.wikipedia.org/wiki/সালার:_পার্ট_ওয়ান_–_সিজফায়ার"
+            },
+            "fa": {
+                "title": "سالار: قسمت اول – آتش‌بس",
+                "link": "https://fa.wikipedia.org/wiki/سالار:_قسمت_اول_–_آتش‌بس"
+            },
+            "fr": {
+                "title": "Salaar",
+                "link": "https://fr.wikipedia.org/wiki/Salaar"
+            },
+            "hi": {
+                "title": "सालार भाग 1 - सीजफायर",
+                "link": "https://hi.wikipedia.org/wiki/सालार_भाग_1_-_सीजफायर"
+            },
+            "id": {
+                "title": "Salaar: Part 1 – Ceasefire",
+                "link": "https://id.wikipedia.org/wiki/Salaar:_Part_1_–_Ceasefire"
+            },
+            "kn": {
+                "title": "ಸಲಾರ್ - ಭಾಗ 1",
+                "link": "https://kn.wikipedia.org/wiki/ಸಲಾರ್_-_ಭಾಗ_1"
+            },
+            "ml": {
+                "title": "സലാർ: ഭാഗം 1",
+                "link": "https://ml.wikipedia.org/wiki/സലാർ:_ഭാഗം_1"
+            },
+            "ms": {
+                "title": "Salaar: Part 1 – Ceasefire",
+                "link": "https://ms.wikipedia.org/wiki/Salaar:_Part_1_–_Ceasefire"
+            },
+            "te": {
+                "title": "సలార్ పార్ట్ 1 సీజ్ ఫైర్",
+                "link": "https://te.wikipedia.org/wiki/సలార్_పార్ట్_1_సీజ్_ఫైర్"
+            },
+            "uk": {
+                "title": "Салаар частина 1 – припинення вогню",
+                "link": "https://uk.wikipedia.org/wiki/Салаар_частина_1_–_припинення_вогню"
+            },
+            "zh": {
+                "title": "浴血爭霸",
+                "link": "https://zh.wikipedia.org/wiki/浴血爭霸"
+            }
+        }
+    }
+]
