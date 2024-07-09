@@ -12,3 +12,7 @@ pip install requests pandas
 ```bash
 pip install wikipedia-api markdownify
 ```
+
+```bash
+pip install wikipedia
+```
