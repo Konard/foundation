@@ -16,15 +16,15 @@ headers = {
 # Payload for the request
 payload = {
   "messages": [
-    {
-      "role": "system",
-      "content": [
-        {
-          "type": "text",
-          "text": "You are an AI assistant that helps people find information."
-        }
-      ]
-    },
+    # {
+    #   "role": "system",
+    #   "content": [
+    #     {
+    #       "type": "text",
+    #       "text": "You are an AI assistant that helps people find information."
+    #     }
+    #   ]
+    # },
     {
       "role": "user",
       "content": [
