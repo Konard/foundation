@@ -1,4 +1,5 @@
 import mwparserfromhell
+import sys
 
 def convert_wikitext_to_markdown(wikitext):
     wikicode = mwparserfromhell.parse(wikitext)
@@ -26,10 +27,21 @@ def convert_wikitext_to_markdown(wikitext):
 
     return markdown
 
-# # Example usage
-# wikitext = """
-# ==Heading==
-# This is a ''sample'' wikitext with an [[internal link]] and an [http://example.com external link].
-# """
-# markdown = convert_wikitext_to_markdown(wikitext)
-# print(markdown)
+def main(input_file, output_file):
+    with open(input_file, 'r', encoding='utf-8') as file:
+        wikitext = file.read()
+    
+    markdown = convert_wikitext_to_markdown(wikitext)
+    
+    with open(output_file, 'w', encoding='utf-8') as file:
+        file.write(markdown)
+
+if __name__ == '__main__':
+    if len(sys.argv) != 3:
+        print("Usage: python script.py <input_wikitext_file> <output_markdown_file>")
+        sys.exit(1)
+    
+    input_file = sys.argv[1]
+    output_file = sys.argv[2]
+    
+    main(input_file, output_file)
