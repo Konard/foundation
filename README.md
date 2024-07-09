@@ -2,3 +2,9 @@
 
 # foundation
 The last chance for humanity
+
+# Install dependencies
+
+```bash
+pip install requests pandas
+```
