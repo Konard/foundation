@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 import time
 import json
+import sys
 
 # Define a user-agent string that mimics a typical browser
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
@@ -22,7 +23,9 @@ def get_top_articles(limit=1000):
     
     articles = []
     for item in data.get('items', [])[0].get('articles', [])[:limit]:
-        articles.append({'title': item['article'], 'views': item['views']})
+        article_title = item['article']
+        article_link = f"https://en.wikipedia.org/wiki/{article_title.replace(' ', '_')}"
+        articles.append({'title': article_title, 'views': item['views'], 'link': article_link})
     
     return articles
 
@@ -45,12 +48,23 @@ def get_translations(title):
     for page_id in pages:
         if 'langlinks' in pages[page_id]:
             for langlink in pages[page_id]['langlinks']:
-                translations[langlink['lang']] = langlink['*']
+                lang_title = langlink['*']
+                lang_link = f"https://{langlink['lang']}.wikipedia.org/wiki/{lang_title.replace(' ', '_')}"
+                translations[langlink['lang']] = {'title': lang_title, 'link': lang_link}
     
     return translations
 
 def main():
-    limit = 5  # Adjust this value to get a different number of top articles
+    if len(sys.argv) != 2:
+        print("Usage: python get_top_wikipedia_articles.py <limit>")
+        sys.exit(1)
+
+    try:
+        limit = int(sys.argv[1])
+    except ValueError:
+        print("The limit must be an integer.")
+        sys.exit(1)
+    
     top_articles = get_top_articles(limit)
     
     for article in top_articles:
